@@ -1,3 +1,6 @@
 25.4.2020:
-mainly I use the video "Automate TINDER with Python tutorial" by Code Drip to assist me. 
+1. mainly I use the video "Automate TINDER with Python tutorial" by Code Drip to assist me. 
 Since he uses Mac and I use Windows, I need to make some adjustments. First he moves chromedriver to bin depository. Whereas there is no such depository on Windows. So we need to inicialize one.
+2. installed Visual Studio Code. Python was already installed, so next step is to create a file tinder_bot.py and add a virtual environment to it.
+3. I needed to use 'pip install virtualenv' to execute (2.). Virtual environment was added to the file but was unable to be activated because Excecution Policy of Windows didn't allow me that. So I needed to open Windows Powershell as Administrator and change the Policy by typing 'Set-ExecutionPolicy Unrestricted'. Now I can activate visualenv, install selenium and start coding with Python.
+4. STILL need to add ChromeDriver./And need to create tinder_bot.py file
