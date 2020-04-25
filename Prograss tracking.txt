@@ -1,0 +1,3 @@
+25.4.2020:
+mainly I use the video "Automate TINDER with Python tutorial" by Code Drip to assist me. 
+Since he uses Mac and I use Windows, I need to make some adjustments. First he moves chromedriver to bin depository. Whereas there is no such depository on Windows. So we need to inicialize one.
