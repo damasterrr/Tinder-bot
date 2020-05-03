@@ -4,3 +4,8 @@ Since he uses Mac and I use Windows, I need to make some adjustments. First he m
 2. installed Visual Studio Code. Python was already installed, so next step is to create a file tinder_bot.py and add a virtual environment to it.
 3. I needed to use 'pip install virtualenv' to execute (2.). Virtual environment was added to the file but was unable to be activated because Excecution Policy of Windows didn't allow me that. So I needed to open Windows Powershell as Administrator and change the Policy by typing 'Set-ExecutionPolicy Unrestricted'. Now I can activate visualenv, install selenium and start coding with Python.
 4. STILL need to add ChromeDriver./And need to create tinder_bot.py file
+
+3.5.2020:
+1. realizing that Tinder bot I was intended to git copy and git modify from the video above is actually not very powerful.
+2. found an article "Make A Tinder Bot That Acts Like You" from medium.com , the Author is Nathan Ang.
+3. most sertanly I will add some features from the video too.
